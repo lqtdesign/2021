@@ -626,5 +626,5 @@ http://125.227.210.55:15078/VideoInput/play.ts
 http://125.227.210.37:18358/VideoInput/play.ts
 #EXTINF:-1 group-title="體育" tvg-name="[337]測試 - 緯來體育" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg",[337]測試 - 緯來體育
 http://125.227.210.55:18358/VideoInpu
-#EXTINF:-1 tvg-id="天映频道" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO1
+#EXTINF:-1 tvg-id="天映频道" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",天映频道
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/49
