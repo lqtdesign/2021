@@ -257,6 +257,7 @@ http://45.126.83.51/uq2663/h/h29/index2.m3u8
 http://8n6ygj3g.ottclub.xyz/iptv/7V9PW3HCSHD4G8/545/index.m3u8
 #EXTINF:-1 group-title="國際新聞" tvg-name="[40]BBC World Service" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png",[40]BBC World Service (SD)
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
+
 #EXTINF:-1 group-title="國際新聞" tvg-name="[40]BBC World Service" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png",[40]BBC World Service (CA)
 http://8n6ygj3g.ottclub.xyz/iptv/7V9PW3HCSHD4G8/6487/index.m3u8
 #EXTINF:-1 group-title="國際新聞" tvg-name="[41]Sky News" tvg-logo="http://static.epg.best/uk/SkyNews.uk.png",[41]Sky News (UK)
@@ -625,3 +626,5 @@ http://125.227.210.55:15078/VideoInput/play.ts
 http://125.227.210.37:18358/VideoInput/play.ts
 #EXTINF:-1 group-title="體育" tvg-name="[337]測試 - 緯來體育" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg",[337]測試 - 緯來體育
 http://125.227.210.55:18358/VideoInpu
+#EXTINF:-1 tvg-id="天映频道" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO1
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/49
