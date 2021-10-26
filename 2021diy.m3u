@@ -627,4 +627,4 @@ http://125.227.210.37:18358/VideoInput/play.ts
 #EXTINF:-1 group-title="體育" tvg-name="[337]測試 - 緯來體育" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg",[337]測試 - 緯來體育
 http://125.227.210.55:18358/VideoInpu
 #EXTINF:-1 tvg-id="HBO" group-title="测试" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
-http://iptv.tvmalaysia.cc:80/624850/624850/7067
+http://181.115.72.65:8099/play/a03a/index.m3u8
